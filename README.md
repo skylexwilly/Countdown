@@ -1,4 +1,4 @@
-Countdown Timer
+Countdown TIMER
 Description
 The Countdown Timer application allows users to set a timer for a specific duration (e.g., 5 minutes, 30 seconds) and displays the countdown in real-time.
 
